@@ -4,3 +4,4 @@ new line2
 new
 new2
 new
+new
